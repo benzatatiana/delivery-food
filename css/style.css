@@ -67,7 +67,7 @@ header {
     margin-left: 10px;
 }
 .promo {
-    background: #FFF1B8 url(/img/promo-img.webp) no-repeat top right -40px /730px; /*через слеш указана ширина картинки*/
+    background: #FFF1B8 url(../img/promo-img.webp) no-repeat top right -40px /730px; /*через слеш указана ширина картинки*/
     border-radius: 10px;
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
     padding: 68px 70px;
